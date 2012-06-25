@@ -12,13 +12,13 @@ rather being using normal text books.
 
 ## Developed by
 
-- [Agra J.M.] (mailto://jmagra@gmail.com)
-- [Ambagasanga T.M.] (mailto://tharanga_madusanka@yahoo.com)
-- [Buddhika T.M.G.] (mailto://gihanbuddhika89@gmail.com)
-- [Gayan K.A.I.] (mailto://isankagayan@gmail.com)
-- [Gunawardena A.P.A.P.V.] (mailto://asterojeffa@gmail.com)
-- [Hettiarachchi A.J.] (mailto://ayesh.janith@gmail.com)
-- [Piyasundara H.T.C.] (mailto://mail@thilina.org)
+- [Agra J.M.] (mailto:jmagra@gmail.com)
+- [Ambagasanga T.M.] (mailto:tharanga_madusanka@yahoo.com)
+- [Buddhika T.M.G.] (mailto:gihanbuddhika89@gmail.com)
+- [Gayan K.A.I.] (mailto:isankagayan@gmail.com)
+- [Gunawardena A.P.A.P.V.] (mailto:asterojeffa@gmail.com)
+- [Hettiarachchi A.J.] (mailto:ayesh.janith@gmail.com)
+- [Piyasundara H.T.C.] (mailto:mail@thilina.org)
     
 ## Compile source
 
@@ -32,4 +32,4 @@ rather being using normal text books.
     
 - or run
     
-> java -jar <path to project>\dist\maths.jar
+> java -jar <path_to_project>\dist\maths.jar
