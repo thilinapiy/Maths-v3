@@ -32,4 +32,4 @@ rather being using normal text books.
     
 - or run
     
-> java -jar <path_to_project>\dist\maths.jar
+> java -jar path_to_project\dist\maths.jar
