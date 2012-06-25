@@ -1,6 +1,8 @@
 Maths-v3
 ========
 
+![Maths v3] (https://github.com/thilinapiy/Maths-v3/raw/master/src/maths/images/mainUI.jpg)
+
 Our project purpose is to provide basic mathematical knowledge to primary Sinhala medium students using creative
 environments. Our Aim  is to provide  more reliable and  beneficial services to the students in order to remove 
 inefficiencies in learning basic mathematics. Our software include basic mathematical functions such as addition, 
