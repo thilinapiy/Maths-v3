@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="0.91">
+	<channel>
+		<title>Thilina Piyasundara</title> 
+		<link>http://www.thilina.lk</link> 
+		<description>Official website of Thilina Piyasundara.</description> 
+		<language>en-us</language> 
+		<webMaster>mail@thilina.lk</webMaster> 
+		<image>
+			<title>thilina.lk</title> 
+			<url>http://www.thilina.lk/images/logo.jpg</url> 
+			<link>http://www.thilina.lk</link> 
+			<width>319</width> 
+			<height>69</height> 
+			<description>News for web users of thilina.lk</description> 
+			</image>
+		<item>
+			<title>Maths 2.0 ReadMe</title> 
+			<link>http://www.thilina.lk/projects/maths/downloads/maths_v2_readme.pdf</link> 
+			<description>The document of the software project. In sinhala language - PDF document.</description> 
+		</item>
+		<item>
+			<title>Maths 2.0 released</title> 
+			<link>http://www.thilina.lk/projects/maths/</link> 
+			<description>The 2nd version of the software project of Harward College has been released.</description> 
+		</item>		
+		<item>
+			<title>Call me on Skype</title> 
+			<link>skype:thilina.piy?call</link> 
+			<description>Contact me on skype.</description> 
+		</item>
+
+		<item>
+			<title>Software Project</title> 
+			<link>http://www.thilina.lk/projects/maths/</link> 
+			<description>A software project to help the primari education.</description> 
+		</item>
+		<item>
+			<title>SIS Database Solution</title> 
+			<link>http://www.thilina.lk/projects/sisdb/</link> 
+			<description>A database solution for a student database in Java.</description> 
+		</item>
+		<item>
+			<title>Harward College website</title> 
+			<link>http://www.thilina.lk/career/harward/</link> 
+			<description>The official website of the Harward College, Colombo. This was designed by Thilina Piyasundara.</description> 
+		</item>
+		<item>
+			<title>Photo Gallery</title> 
+			<link>http://www.thilina.lk/gallery/</link> 
+			<description>Photo gallery of thilina.lk website.</description> 
+			</item>
+		<item>
+			<title>Contact details</title> 
+			<link>http://www.thilina.lk/contacts/</link> 
+			<description>Contact details of the thilina.lk website.</description> 
+		</item>
+	</channel>
+</rss>
